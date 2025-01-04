@@ -2,7 +2,7 @@
 
 A modern, feature-rich calculator application built with React Native and Redux Toolkit. This app combines beautiful design with powerful functionality.
 
-![](assets/calculator.gif)
+![](calculator.gif)
 
 ## Features
 
